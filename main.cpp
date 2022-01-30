@@ -12,7 +12,6 @@
 * https://opensource.org/licenses/BSD-2-Clause
 *
 ***********************************************************************/
-//edited by Marius Will
 
 
 #include <QtCore>
